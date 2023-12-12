@@ -8,10 +8,12 @@ Neela Karim contributions: worked to ensure specifiedfunctionalities.jsp updated
 Time Spent: 18 hours 
 
 Instructions to install:
-1. Download and upload the zip to your eclipse workspace
-2. Place it into your correct directory
-3. Ensure apache tomcat is the proper version (9.0) and running
-4. Open project from the project explorer.
-5. David_Smith_App > src > main > webapp > WEB-INF
-6. Open login.jsp or userlogin.jsp to gain access to the web interfaces
-7. Success!
+1. Download and upload the zip to your Eclipse workspace.
+2. Place it into your correct directory.
+3. In Eclipse, go to file > import, then click down on 'general tab' and select 'projects from folder/archive'.
+4. Ensure Apache Tomcat is the proper version (9.0) and running.
+5. Open the project from the project explorer.
+6. David_Smith_App > src > main > webapp > WEB-INF.
+7. With Apache Tomcat running, hit RUN AS > Run on server on the left of the screen.
+8. Open login.jsp or userlogin.jsp to gain access to the web interfaces.
+9. Success!
