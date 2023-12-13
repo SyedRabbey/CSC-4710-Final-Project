@@ -17,3 +17,6 @@ Instructions to install:
 7. With Apache Tomcat running, hit RUN AS > Run on server on the left of the screen.
 8. Open login.jsp or userlogin.jsp to gain access to the web interfaces.
 9. Success!
+
+
+ADDED ZIP AND NON ZIP TO REPOSITORY
